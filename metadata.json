@@ -1,0 +1,9 @@
+{
+  "name": "Meridian Futures Cloud",
+  "description": "多代理商运营的国际模拟期货交易平台 — WTI 美原油、Brent 布伦特原油及大宗商品全真模拟撮合与多租户 SaaS 中枢",
+  "requestFramePermissions": [],
+  "prompt": "",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
